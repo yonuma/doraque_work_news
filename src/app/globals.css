@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  /* The background color is set on the body tag in layout.tsx using Tailwind classes */
+  /* This file is mainly for Tailwind directives and any custom global styles. */
+}
